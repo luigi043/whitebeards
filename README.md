@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/d68febbf-891b-4d9f-8b03-2eb322ebe281)
 # What is this Repository?
 This repository is used along with the [Pluralsight Angular Best Practices course](https://app.pluralsight.com/library/courses/best-practices-angular/table-of-contents). 
 
